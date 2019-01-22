@@ -17,7 +17,7 @@ h3 {
     margin-left: -180px;
 }
 .signup {
-    display: none;
+    display: flex;
 }
 input [type=email] , [type=password] {
     width: 100%;
